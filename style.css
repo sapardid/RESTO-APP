@@ -108,23 +108,23 @@ section {
 }
 
 #user {
-    font-size: 20px;
-    margin: 4px;
+    font-size: 18px;
+    margin: 5px;
     cursor: pointer;
     color: var(--light-black);
 }
 
 #bell {
-    font-size: 20px;
-    margin: 4px;
+    font-size: 18px;
+    margin: 5px;
     cursor: pointer;
     color: var(--light-black);
 
 }
 
 #share {
-    font-size: 20px;
-    margin: 4px 4px 4px 6px;
+    font-size: 18px;
+    margin: 5px 5px 5px 8px;
     cursor: pointer;
     color: var(--light-black);
 
