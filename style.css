@@ -63,7 +63,8 @@ section {
     top: 0;
     left: 0;
     right: 0;
-    z-index: 1000;
+    z-index: 1;
+    background-color: var(--light-bg);
 }
 
 .header .logo {
@@ -132,7 +133,12 @@ section {
 
 /* akhir tambahan editan */
 
+main {
+    background-color: var(--light-white);
+    width: 100vw;
+    height: 200vh;
 
+}
 
 
 
