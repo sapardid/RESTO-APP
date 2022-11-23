@@ -127,7 +127,7 @@ section {
     margin: 5px 5px 5px 8px;
     cursor: pointer;
     color: var(--light-black);
-
+    display: none;
 }
 
 /* akhir tambahan editan */
